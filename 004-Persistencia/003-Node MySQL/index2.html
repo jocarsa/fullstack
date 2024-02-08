@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+    <head>
+        <script>
+            window.onload = function(){
+                fetch("http://localhost:8080/eventos")
+                .then(response => {
+                    return response.json();
+                })
+                  .then(data => {
+                    console.log(data);
+                    let contenido = document.getElementById("contenido");
+                    for(let i = 0;i<data.length;i++){
+                        contenido.innerHTML += `
+                            <h3>`+data[i].titulo+`</h3>
+                            <p>`+data[i].categoria+`</p>
+                            <time>`+data[i].fechainicio+`</time>
+                            <p>`+data[i].descripcion+`</p>
+                            <p>`+data[i].contenido+`</p>
+                        `;
+                    }
+                  })
+                fetch("http://localhost:8080/categorias")
+                .then(response => {
+                    return response.json();
+                })
+                  .then(data => {
+                    console.log(data);
+                    let menu = document.getElementById("menu");
+                    for(let i = 0;i<data.length;i++){
+                        menu.innerHTML += `
+                            <li>`+data[i].nombre+`</li>
+                        `;
+                    }
+                  })
+            }
+        </script>
+    </head>
+    <body>
+        <nav>
+            <ul id="menu"></ul>
+        </nav>
+        <div id="contenido">
+            
+        </div>
+    </body>
+</html>

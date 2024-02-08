@@ -1,0 +1,13 @@
+npm install -g @angular/cli
+
+mkdir proyectosangular
+
+cd proyectosangular
+
+ng new proyecto1 --standalone false
+
+cd proyecto1
+
+ng serve
+
+ng build

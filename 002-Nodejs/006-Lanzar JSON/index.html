@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+    <head>
+        <script>
+            window.onload = function(){
+                fetch("http://localhost:8080/")
+                .then(response => {
+                    return response.json();
+                })
+                  .then(data => {
+                    console.log(data);
+                    document.getElementById("titulo").innerHTML = data.titulo;
+                    document.getElementById("contenido").innerHTML = data.contenido;
+                  })
+            }
+        </script>
+    </head>
+    <body>
+        <div id="titulo"></div>
+        <div id="contenido"></div>
+    </body>
+</html>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="007-Stack.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4912878"
+     inkscape:cx="442.23521"
+     inkscape:cy="332.26315"
+     inkscape:window-width="1641"
+     inkscape:window-height="1040"
+     inkscape:window-x="204"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect6747"
+       width="53.945404"
+       height="18.065437"
+       x="75.294815"
+       y="34.1236"
+       ry="4.4560237" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.05613px;text-align:end;text-anchor:end;fill:#000000;stroke:#000000;stroke-width:1.0777;stroke-linecap:round;stroke-linejoin:round"
+       x="77.645889"
+       y="41.252087"
+       id="text6751"><tspan
+         sodipodi:role="line"
+         id="tspan6749"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.07771"
+         x="77.645889"
+         y="41.252087">css</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect6753"
+       width="53.945404"
+       height="18.065437"
+       x="75.294815"
+       y="46.418133"
+       ry="4.4560237" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.05613px;text-align:end;text-anchor:end;fill:#000000;stroke:#000000;stroke-width:1.0777;stroke-linecap:round;stroke-linejoin:round"
+       x="77.66861"
+       y="53.546619"
+       id="text6757"><tspan
+         sodipodi:role="line"
+         id="tspan6755"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.07771"
+         x="77.66861"
+         y="53.546619">html</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect6759"
+       width="53.945404"
+       height="18.065437"
+       x="75.294815"
+       y="56.830849"
+       ry="4.4560237" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.05613px;text-align:end;text-anchor:end;fill:#000000;stroke:#000000;stroke-width:1.0777;stroke-linecap:round;stroke-linejoin:round"
+       x="77.66861"
+       y="63.959335"
+       id="text6763"><tspan
+         sodipodi:role="line"
+         id="tspan6761"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.07771"
+         x="77.66861"
+         y="63.959335">javascript</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect8515"
+       width="53.945404"
+       height="18.065437"
+       x="75.294815"
+       y="104.25263"
+       ry="4.4560237" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.05613px;text-align:end;text-anchor:end;fill:#000000;stroke:#000000;stroke-width:1.0777;stroke-linecap:round;stroke-linejoin:round"
+       x="77.66861"
+       y="111.38111"
+       id="text8519"><tspan
+         sodipodi:role="line"
+         id="tspan8517"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.07771"
+         x="77.66861"
+         y="111.38111">PHP</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect8521"
+       width="53.945404"
+       height="18.065437"
+       x="75.294815"
+       y="114.66534"
+       ry="4.4560237" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.05613px;text-align:end;text-anchor:end;fill:#000000;stroke:#000000;stroke-width:1.0777;stroke-linecap:round;stroke-linejoin:round"
+       x="77.66861"
+       y="121.79383"
+       id="text8525"><tspan
+         sodipodi:role="line"
+         id="tspan8523"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.07771"
+         x="77.66861"
+         y="121.79383">MariaDB</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect8527"
+       width="53.945404"
+       height="18.065437"
+       x="75.294815"
+       y="67.369019"
+       ry="4.4560237" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.05613px;text-align:end;text-anchor:end;fill:#000000;stroke:#000000;stroke-width:1.0777;stroke-linecap:round;stroke-linejoin:round"
+       x="77.66861"
+       y="74.497505"
+       id="text8531"><tspan
+         sodipodi:role="line"
+         id="tspan8529"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.07771"
+         x="77.66861"
+         y="74.497505">jQuery</tspan></text>
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path8585"
+       cx="100.67718"
+       cy="94.780815"
+       r="6.4609027" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.49446px;text-align:end;text-anchor:end;fill:#000000;stroke:#000000;stroke-width:0.799797;stroke-linecap:round;stroke-linejoin:round"
+       x="94.746033"
+       y="96.473892"
+       id="text8589"><tspan
+         sodipodi:role="line"
+         id="tspan8587"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.799805"
+         x="94.746033"
+         y="96.473892">JSON</tspan></text>
+  </g>
+</svg>
