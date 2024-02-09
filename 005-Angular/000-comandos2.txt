@@ -1,0 +1,12 @@
+cd Documents
+cd proyectosangular
+ng new planesvalencia --standalone false
+cd planesvalencia
+ng serve
+ng generate component cabecera --standalone false
+ng generate component principal --standalone false
+ng generate component piedepagina --standalone false
+ng generate component menu --standalone false
+ng generate component eventos --standalone false
+ng generate component lateral --standalone false
+ng build

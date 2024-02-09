@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background:rgb(220,220,220);
+    font-family: sans-serif;
+}
+header,main,footer{
+    background:white;
+    width:800px;
+    margin:auto;
+    box-sizing: border-box;
+    padding:20px;
+}

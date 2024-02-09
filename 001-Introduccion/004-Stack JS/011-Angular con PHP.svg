@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="010-Express.svg"
+   sodipodi:docname="011-Angular con PHP.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.74564396"
-     inkscape:cx="565.95376"
-     inkscape:cy="459.33451"
-     inkscape:window-width="1416"
+     inkscape:zoom="1.0544998"
+     inkscape:cx="535.79906"
+     inkscape:cy="461.35618"
+     inkscape:window-width="1756"
      inkscape:window-height="1040"
-     inkscape:window-x="429"
-     inkscape:window-y="0"
+     inkscape:window-x="133"
+     inkscape:window-y="35"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -127,7 +127,7 @@
        y="126.25517"
        ry="4.4560237" />
     <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round"
        id="rect11322"
        width="53.945404"
        height="18.065437"
@@ -144,7 +144,7 @@
          id="tspan11324"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.07771"
          x="122.04904"
-         y="144.17273">Express.js</tspan></text>
+         y="144.17273">Frameworks?</tspan></text>
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.565;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9536)"
        d="M 144.9772,136.84546 V 107.74868"
@@ -232,7 +232,7 @@
          id="tspan8517"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.07771"
          x="122.04904"
-         y="153.75337">Node.js</tspan></text>
+         y="153.75337">PHP</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round"
        id="rect8521"

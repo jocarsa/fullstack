@@ -1,0 +1,14 @@
+ssh root@5.250.188.70
+
+ls = listar
+cd ..
+cd home
+mkdir servernode
+cd servernode
+apt install nodejs
+apt install npm
+npm install express
+subir servidor por filezilla
+abrir puerto servidor
+node servidor.js
+sudo apt install apache2

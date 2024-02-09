@@ -1,0 +1,1 @@
+db.formularios.insertOne({"nombre":"Jose Vicente","email":"info@josevicentecarratala.com","telefono":"620891718"});

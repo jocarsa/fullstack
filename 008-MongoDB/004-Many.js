@@ -1,0 +1,1 @@
+db.formularios.insertMany([{"nombre":"Juan","email":"juan@josevicentecarratala.com","telefono":"620891718"},{"nombre":"Jorge","email":"jorge@josevicentecarratala.com","telefono":"620891718"}]);
