@@ -10,3 +10,4 @@ ng generate component menu --standalone false
 ng generate component eventos --standalone false
 ng generate component lateral --standalone false
 ng build
+ng generate service datos
