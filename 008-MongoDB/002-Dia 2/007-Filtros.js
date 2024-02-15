@@ -1,0 +1,1 @@
+db.entradas.find({titulo:"Esta es la segunda entrada"});
