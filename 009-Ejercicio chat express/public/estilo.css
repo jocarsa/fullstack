@@ -1,0 +1,37 @@
+body{font-family: sans-serif;}
+#mimensaje{
+    position:fixed;
+    bottom:10px;
+    width:90%;
+    box-sizing: border-box;
+    padding:10px;
+    z-index:1000;
+}
+#yo{
+    position:fixed;
+    top:10px;
+    width:90%;
+    box-sizing: border-box;
+    padding:10px;
+    z-index:1000;
+}
+#mensajes{
+    width:100%;
+    clear:both;
+    position:absolute;
+    top:50px;
+}
+.mensaje{
+    clear:both;
+    float:left;
+    padding:10px;
+    background:lightgray;
+    width:70%;
+    margin:5px;
+    border-radius:0px 10px 10px 10px;
+}
+.yo{
+    border-radius:10px 0px 10px 10px;
+    float:right;
+    background:rgb(200,255,200);
+}
